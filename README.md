@@ -1,4 +1,11 @@
-## Hi there 👋
+# Simon
+ 
+IT-Azubi · Linux · Homelab
+ 
+[![Mail](https://img.shields.io/badge/Mail-8B89CC?logo=protonmail&logoColor=white)](mailto:eiwaz71@proton.me)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 
 <!--
 **eiwaz71/eiwaz71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

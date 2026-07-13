@@ -1,4 +1,4 @@
-# Simon
+# S!mon
  
 IT-Azubi · Linux · Homelab
  
